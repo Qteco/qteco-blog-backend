@@ -1,6 +1,6 @@
 # Strapi backend for Qteco Blog
 
-###Setup instructions
+### Setup instructions
 
 1. Clone this repository into your development environment
 2. `cd` into the project's root directory
